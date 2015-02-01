@@ -13,6 +13,20 @@
 					<key>url</key>
 					<string>http://obsidan.oss-cn-hangzhou.aliyuncs.com/ipa/TT1.2.3.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<key>needs-shine</key>
+					<key>url</key>
+					<string>full-size-image</string>
+					<string>http://obsidan.oss-cn-hangzhou.aliyuncs.com/images/img/icon512.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<key>needs-shine</key>
+					<key>url</key>
+					<string>display-image</string>
+					<string>http://obsidan.oss-cn-hangzhou.aliyuncs.com/images/img/icon75.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
